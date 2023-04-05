@@ -1,9 +1,9 @@
 {
-"Title": "شیلدگرام",
-"Description": "این یک پیام تست از شیلدگرام است.",
-"Link": "https://t.me/Vpn_Shield",
-"ColorWave": "#14acdf",
-"ColorWaveTwo": "#53ddef",
+"Title": "☆ افزایش نرخ ارز و رشد تورم سال 1402 ☆",
+"Description": "⭕️ دوستان یه کانال بهتون معرفی میکنیم که ‌قیمت طلا ، خودرو ، ارز ، مسکن همه رو پیش‌بینی میکنه!\n\n- تو این اوضاع مملکت همچین کانالی قطعا به درد میخوره؛با کلیک روی عضویت از آخرین پیش‌بینی‌هاش مطلع شو و از قیمت چند روز آینده مطلع شو ؛)",
+"Link": "tg://join?invite=-6LGIJYAvGgzN2Rk",
+"ColorWave": "#ffff00",
+"ColorWaveTwo": "#ffd600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
@@ -13,11 +13,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "99",
-"ShowTime": "100",
-"Button": "عضوییییییییت",
-"ButtonCancell": " بعدا ",
+"Cancellable": "False",
+"MessageID": "1",
+"ShowTime": "10",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": "",
 "Closure": "true",
-"Show": "off"
+"Show": "on"
 }
