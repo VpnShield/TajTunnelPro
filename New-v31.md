@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "8261001",
+"MessageID": "8261000001",
 "ShowTime": "3",
 "Button": "  عضـویت اجــباری ",
 "ButtonCancell": "  ",
